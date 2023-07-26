@@ -1,6 +1,7 @@
-terkait apa saja yang harus disiapkan adalah:
+### terkait apa saja yang harus disiapkan adalah:
 
-**Arch instalisasi**
+#### Arch installisasi
+
 Persiapan update dan upgrade sistem agar mengikuti perkembangan software (mengurangi throuble dependencies)
 
 ```
